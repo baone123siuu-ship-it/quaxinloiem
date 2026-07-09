@@ -1,12 +1,29 @@
-# Gift_FallingTextv4
+# 🌸 Dự Án: Xin Lỗi Em 🌸
 
-> Video hướng dẫn: [Xem tại đây](https://dr-gifter.onrender.com/tutorial)
-
-<img width="1152" height="648" alt="faliingtextv4" src="https://github.com/user-attachments/assets/da1d93ab-509b-4800-99a1-de7bccb6bef4" />
+> "Lời xin lỗi chân thành nhất từ trái tim gửi đến người con gái anh thương."
 
 ---
->Nếu cảm thấy thích thú, bạn có thể ủng hộ mình thông qua tài khoản này, để mình có thêm động lực tạo ra nhiều thứ hay hơn
 
-<div align="center">
-  <img width="500" height="500" alt="stk" src="https://github.com/user-attachments/assets/3c1ef5a5-1457-4422-b764-360e87249c35" />
-</div>
+## 📌 Giới Thiệu
+Trang web này được dựng lên nhằm gửi gắm lời xin lỗi, những hình ảnh kỷ niệm của hai đứa mình và một chút âm nhạc nhẹ nhàng đến em. Hy vọng món quà nhỏ này sẽ làm em bớt giận và mỉm cười nhé! 🥰
+
+---
+
+## 🎮 Các Tính Năng Trên Menu
+Trang web bao gồm một thanh menu tương tác thông minh phía dưới với 4 chức năng:
+* 🎵 **Music**: Bật/tắt bản nhạc nền du dương lãng mạn.
+* ✉️ **Letter**: Hiển thị bức thư tay giấu kín lời xin lỗi chân thành của anh.
+* 📸 **Image**: Hiển thị album ảnh kỷ niệm đáng yêu của hai đứa.
+* 🎁 **Gift**: Hộp quà bất ngờ ẩn chứa một điều đặc biệt dành riêng cho em.
+
+---
+
+## 🛠️ Công Nghệ Sử Dụng
+* **HTML5 & CSS3**: Tạo giao diện Dark Mode lãng mạn, hiệu ứng bo góc và đổ bóng mượt mà.
+* **JavaScript**: Xử lý hiệu ứng tương tác bật nhạc và hiển thị hộp quà khi em bấm nút.
+* **GitHub Pages**: Lưu trữ và phát hành trang web thành đường link online.
+
+---
+
+## 💝 Gửi Đến Em
+* Cảm ơn em vì đã luôn kiên nhẫn, bao dung và ở bên cạnh anh. Anh biết mình có lỗi rồi, em đừng giận anh nữa nha! 🥺 Chúc em luôn hạnh phúc và vui vẻ mỗi ngày!
